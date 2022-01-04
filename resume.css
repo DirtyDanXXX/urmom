@@ -1,0 +1,94 @@
+.NameBox{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: rgb(31, 54, 63);
+    background-color: rgba(35, 95, 65, 0.582);
+    width:100%;
+}
+.Address{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: rgba(31, 54, 63, 0.829);
+    margin-top: -7%;
+    margin-left: 90%;
+}
+.exp{
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:19px;
+    font-style: bold;
+    font-weight: 800px;
+    color: rgb(57, 162, 201);
+}
+.par{
+    font-weight: 600px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: initial;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.edu{
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:19px;
+    font-style: bold;
+    font-weight: 800px;
+    color: rgb(57, 162, 201);
+}
+.deg{
+    font-weight: 600px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: initial;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.skills{
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:19px;
+    font-style: bold;
+    font-weight: 800px;
+    color: rgb(57, 162, 201);
+}
+.solve{
+    font-weight: 600px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: initial;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.cert{
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:19px;
+    font-style: bold;
+    font-weight: 800px;
+    color: rgb(57, 162, 201);
+}
+.certif{
+    font-weight: 600px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: initial;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.poss{
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:19px;
+    font-style:bold;
+    font-weight: 800px;
+    color: rgb(57, 162, 201);
+}
+.possi{
+    font-weight: 600px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: initial;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
